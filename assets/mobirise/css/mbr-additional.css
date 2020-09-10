@@ -1234,7 +1234,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sad0whH66q {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #0071bc;
 }
@@ -1315,6 +1315,7 @@ section.lazy-placeholder:after {
 }
 .cid-sacZTElf2A .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-sacZTElf2A .card-wrapper {
   height: 100%;
